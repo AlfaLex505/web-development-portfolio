@@ -1,0 +1,29 @@
+* {
+    background-color: #232325;
+    color: white;
+}
+
+h1 {
+    color: #e50914;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+
+div {
+    padding: 40px;
+    text-align: justify;
+    
+}
+
+img {
+    height: 150px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+}
